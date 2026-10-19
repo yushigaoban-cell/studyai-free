@@ -1,0 +1,9 @@
+{
+  "name": "STUDY//AI FREE",
+  "short_name": "STUDY//AI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080d1b",
+  "theme_color": "#080d1b",
+  "description": "スマート学習アプリ"
+}
